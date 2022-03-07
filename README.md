@@ -1,16 +1,29 @@
-# vid1_frostedglass
+# Frosted Glass Widget in flutter
 
-A new Flutter project.
+this is the source code of our YouTube video about how to create a
+frostedGlass container in flutter.
+you can watch the tutorial for better undrestanding
+**Tutorial Video:** #
 
-## Getting Started
-
+## About us
+**Hovered Cube** is high quality channel by a young age team, with a lot of energy and motivation to make useful programming tutorials.
+In this channel we upload high-quality and short but pure tutorials and courses about mobile app development.
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**official links:**
+ - _Youtube_ : https://www.youtube.com/c/HoveredCubeOfficial
+➖➖➖➖
+- _Instagram_ : https://www.instagram.com/hoveredcube/
+➖➖➖➖
+ - _Twitter_ : https://twitter.com/hoveredcube
+➖➖➖➖
+- _Discord_ : https://discord.gg/TTcSyPU6Af
+➖➖➖➖
+- _Dribbble_ : https://dribbble.com/hoveredcube
+➖➖➖➖
+- _github_ : https://github.com/HoveredCube
+➖➖➖➖
+- _Telegram channel_ : https://t.me/hoveredcube
+➖➖➖➖
+- _Telegram Group_ : https://t.me/HoveredCube_Group
+➖➖➖➖
+- _Manager_ : https://t.me/hoveredcube_manager
