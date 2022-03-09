@@ -3,7 +3,7 @@
 this is the source code of our YouTube video about how to create a
 frostedGlass container in flutter.
 you can watch the tutorial for better undrestanding
-**Tutorial Video:** #
+**Tutorial Video:** https://github.com/HoveredCube/frostedglass_video1
 
 ## About us
 **Hovered Cube** is high quality channel by a young age team, with a lot of energy and motivation to make useful programming tutorials.
