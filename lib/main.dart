@@ -3,7 +3,7 @@
 // This is the source code of HoveredCube video:
 // "How to create frostedGlass in flutter"
 // Tutorial Video link :
-// #
+// - https://github.com/HoveredCube/frostedglass_video1
 // Follow @HoveredCube on instagram.
 
 
